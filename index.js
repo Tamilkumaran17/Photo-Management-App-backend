@@ -11,4 +11,6 @@ cloudinary.config({
 
 app.listen(3001,()=>{
     console.log("server run in http://localhost:3001");
+    console.log("new commit added");
+    
 })
